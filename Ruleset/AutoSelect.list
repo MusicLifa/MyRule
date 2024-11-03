@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
+
+#一些国外大学或签证机构
+DOMAIN-SUFFIX,vfsglobal.com
