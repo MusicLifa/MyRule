@@ -1,0 +1,24 @@
+# 直连列表 补充规则
+# 交易所
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,wsdexpri.okx.com.cdn.cloudflare.net
+
+
+#国内购物网站
+DOMAIN-KEYWORD,jd
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,1688
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,goofish
+DOMAIN-KEYWORD,pinduoduo
+
+#磁力网站
+DOMAIN-KEYWORD,yuhuage
+DOMAIN-KEYWORD,iwuqian
+DOMAIN-KEYWORD,wuqianfabu
+DOMAIN-KEYWORD,wuqiangu
+DOMAIN-KEYWORD,wuqianyo
+DOMAIN-KEYWORD,wuqianox
+DOMAIN-KEYWORD,wuqianto
+DOMAIN-KEYWORD,wuqianfabu
+DOMAIN-KEYWORD,wuqianlz
