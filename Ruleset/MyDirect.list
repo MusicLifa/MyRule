@@ -34,6 +34,10 @@ DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,bdxiguavod
 
 #其他网站
-DOMAIN-SUFFIX,189cube.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,189cube.com
+DOMAIN-SUFFIX,90dao.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,antpcdn.com
 
