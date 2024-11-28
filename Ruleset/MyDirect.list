@@ -27,6 +27,7 @@ DOMAIN-KEYWORD,oracle
 DOMAIN-KEYWORD,oraclecloud
 
 #国内视频网站
+DOMAIN-SUFFIX,vegslb.com
 DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,toutiaovod
 DOMAIN-KEYWORD,ixigua
