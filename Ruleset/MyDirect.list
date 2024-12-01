@@ -34,6 +34,12 @@ DOMAIN-KEYWORD,toutiaovod
 DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,bdxiguavod
 
+#下载网站
+DOMAIN-SUFFIX,rsload.net
+DOMAIN-SUFFIX,filecr.com
+DOMAIN-SUFFIX,lrepacks.ru
+DOMAIN-SUFFIX,portable4pc.com
+
 #其他网站
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,189cube.com
