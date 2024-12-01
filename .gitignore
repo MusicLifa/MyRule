@@ -1,4 +1,1 @@
 OpenWRT/
-git add . // 添加代码到git 
-git commit -m '隐藏OpenWRT文件夹' 
-git push
