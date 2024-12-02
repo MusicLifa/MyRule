@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,lrepacks.ru
 DOMAIN-SUFFIX,portable4pc.com
 
-#其他网站
+#其他网站网站
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,189cube.com
 DOMAIN-SUFFIX,90dao.com
@@ -59,8 +59,12 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,up135.com
+
+#其他网站关键字
+DOMAIN-KEYWORD,lenovo
 DOMAIN-KEYWORD,todesk
-DOMAIN-KEYWORD,up135
+
 
 
 
