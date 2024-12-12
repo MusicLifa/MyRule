@@ -1,7 +1,4 @@
 # 直连列表 补充规则
-# 交易所
-# DOMAIN-KEYWORD,okx
-# DOMAIN-KEYWORD,binance
 
 #国内购物网站
 DOMAIN-KEYWORD,jd
