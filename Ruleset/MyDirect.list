@@ -69,7 +69,10 @@ DOMAIN-SUFFIX,xinnet.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
-
+DOMAIN-SUFFIX,natfrp.com
+DOMAIN-SUFFIX,chinapyg.com
+DOMAIN-SUFFIX,wuyou.net
+DOMAIN-SUFFIX,hpe.com
 
 #其他网站关键字
 DOMAIN-KEYWORD,uup
@@ -81,14 +84,18 @@ DOMAIN-KEYWORD,foxmail
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,adguard
+DOMAIN-KEYWORD,ventoy
+DOMAIN-KEYWORD,chiphell
 
 
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,ctfile.com
-DOMAIN-KEYWORD,lanzou
+DOMAIN-SUFFIX,ctfile.net
+DOMAIN-SUFFIX,n802.com
+DOMAIN-SUFFIX,tv002.com
 DOMAIN-KEYWORD,123pan
-DOMAIN-KEYWORD,woozooo
+
 
 
 
