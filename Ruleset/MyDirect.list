@@ -29,6 +29,7 @@ DOMAIN-KEYWORD,ixigua
 DOMAIN-SUFFIX,rsload.net
 DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,lrepacks.ru
+DOMAIN-SUFFIX,mefcl.com
 DOMAIN-SUFFIX,portable4pc.com
 
 #其他网站网站
@@ -84,7 +85,6 @@ DOMAIN-KEYWORD,adguard
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,ctfile.com
-DOMAIN-SUFFIX,mefcl.com
 DOMAIN-KEYWORD,lanzou
 DOMAIN-KEYWORD,123pan
 DOMAIN-KEYWORD,woozooo
