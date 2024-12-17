@@ -81,11 +81,14 @@ DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,wynd.network
 
 #其他网站关键字
+DOMAIN-KEYWORD,pcbeta
 DOMAIN-KEYWORD,lenovo
 DOMAIN-KEYWORD,todesk
 DOMAIN-KEYWORD,huawei
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,adguard
+DOMAIN-KEYWORD,uupdump
 
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
