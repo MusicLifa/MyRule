@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bytemastatic.com
 DOMAIN-SUFFIX,dbankcloud.com
 DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,hku.hk
 DOMAIN-SUFFIX,ip.sb
@@ -78,9 +77,11 @@ DOMAIN-KEYWORD,pcbeta
 DOMAIN-KEYWORD,lenovo
 DOMAIN-KEYWORD,todesk
 DOMAIN-KEYWORD,huawei
+DOMAIN-KEYWORD,foxmail
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,adguard
+
 
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
