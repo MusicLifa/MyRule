@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,wuyou.net
 DOMAIN-SUFFIX,hpe.com
 DOMAIN-SUFFIX,bytegoofy.com
 
+
 #其他网站关键字
 DOMAIN-KEYWORD,uup
 DOMAIN-KEYWORD,pcbeta
@@ -88,15 +89,20 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,adguard
 DOMAIN-KEYWORD,ventoy
 DOMAIN-KEYWORD,chiphell
+DOMAIN-KEYWORD,bitwarden
+DOMAIN-KEYWORD,greasyfork
+DOMAIN-KEYWORD,crx4chrome
+DOMAIN-KEYWORD,bathome
 
 
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,ctfile.com
-DOMAIN-SUFFIX,ctfile.net
 DOMAIN-SUFFIX,n802.com
 DOMAIN-SUFFIX,tv002.com
+DOMAIN-KEYWORD,ctfile
 DOMAIN-KEYWORD,123pan
+
 
 
 
