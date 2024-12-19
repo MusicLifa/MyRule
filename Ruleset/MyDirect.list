@@ -27,11 +27,12 @@ DOMAIN-KEYWORD,ixigua
 
 #下载网站
 DOMAIN-SUFFIX,rsload.net
-DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,lrepacks.ru
 DOMAIN-SUFFIX,mefcl.com
-DOMAIN-SUFFIX,portable4pc.com
+DOMAIN-SUFFIX,s0ft4pc.com
 DOMAIN-SUFFIX,lovestu.com
+DOMAIN-KEYWORD,filecr
+DOMAIN-KEYWORD,portable
 DOMAIN-KEYWORD,devuploads
 
 #其他网站网站
