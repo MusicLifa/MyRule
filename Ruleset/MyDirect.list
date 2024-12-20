@@ -81,7 +81,6 @@ DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,crystalidea.com
 DOMAIN-SUFFIX,lencr.org
 
-
 #其他网站关键字
 DOMAIN-KEYWORD,uup
 DOMAIN-KEYWORD,pcbeta
@@ -104,6 +103,7 @@ DOMAIN-KEYWORD,tailscale
 DOMAIN-KEYWORD,zendesk
 DOMAIN-KEYWORD,qualified
 DOMAIN-KEYWORD,zdassets
+DOMAIN-KEYWORD,nelreports
 DOMAIN-KEYWORD,website-files
 DOMAIN-KEYWORD,bigdatacloud
 
