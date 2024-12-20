@@ -104,6 +104,7 @@ DOMAIN-KEYWORD,tailscale
 DOMAIN-KEYWORD,zendesk
 DOMAIN-KEYWORD,qualified
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,website-files
 
 #国内网盘
 DOMAIN-SUFFIX,ghxi.com
