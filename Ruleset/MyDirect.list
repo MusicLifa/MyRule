@@ -36,6 +36,12 @@ DOMAIN-KEYWORD,portable
 DOMAIN-KEYWORD,devuploads
 
 #其他网站网站
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,asus.com.cn
+DOMAIN-SUFFIX,msi.cn
+DOMAIN-SUFFIX,msi.com
+DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN-SUFFIX,gigabyte.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,163.com
