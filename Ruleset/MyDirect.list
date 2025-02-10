@@ -3,17 +3,6 @@
 #工作添加
 DOMAIN-SUFFIX,arkm.com
 
-
-#国内购物网站
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,1688
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,goofish
-DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,yangkeduo.com
-
-
 #磁力网站
 DOMAIN-KEYWORD,yuhuage
 DOMAIN-KEYWORD,wuqian
