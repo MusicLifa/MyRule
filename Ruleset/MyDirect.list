@@ -1,5 +1,9 @@
 # 直连列表 补充规则
 
+#工作添加
+DOMAIN-SUFFIX,arkm.com
+
+
 #国内购物网站
 DOMAIN-KEYWORD,jd
 DOMAIN-KEYWORD,alipay
