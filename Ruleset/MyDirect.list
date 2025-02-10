@@ -1,6 +1,10 @@
 # 直连列表 补充规则
 
-#工作添加
+#项目过滤
+DOMAIN-KEYWORD,sayecho
+DOMAIN-KEYWORD,getgrass
+DOMAIN-KEYWORD,nodepay
+DOMAIN-SUFFIX,bless.network
 DOMAIN-SUFFIX,arkm.com
 
 #磁力网站
@@ -118,13 +122,6 @@ DOMAIN-SUFFIX,n802.com
 DOMAIN-SUFFIX,tv002.com
 DOMAIN-KEYWORD,ctfile
 DOMAIN-KEYWORD,123pan
-
-#项目过滤
-DOMAIN-SUFFIX,bless.network
-DOMAIN-KEYWORD,sayecho
-DOMAIN-KEYWORD,getgrass
-DOMAIN-KEYWORD,nodepay
-
 
 
 
