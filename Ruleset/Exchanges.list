@@ -17,7 +17,13 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
 
-#抹茶
+#其他
+DOMAIN-SUFFIX,ave.ai
+DOMAIN-SUFFIX,gmgn.ai
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,gostake.io
 DOMAIN-SUFFIX,matcha.xyz
+
+
 
 
