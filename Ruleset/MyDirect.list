@@ -1,5 +1,10 @@
 # 直连列表 补充规则
 
+#域名后缀过滤
+#DOMAIN-SUFFIX,ai
+#DOMAIN-SUFFIX,io
+#DOMAIN-SUFFIX,xyz
+
 #项目过滤
 DOMAIN-KEYWORD,sayecho
 DOMAIN-KEYWORD,getgrass
@@ -17,9 +22,7 @@ DOMAIN-SUFFIX,bless.network
 DOMAIN-SUFFIX,myriad.markets
 DOMAIN-SUFFIX,beboundless.xyz
 DOMAIN-SUFFIX,kaleidofinance.xyz
-#DOMAIN-SUFFIX,ai
-#DOMAIN-SUFFIX,io
-#DOMAIN-SUFFIX,xyz
+
 
 #磁力网站
 DOMAIN-KEYWORD,yuhuage
