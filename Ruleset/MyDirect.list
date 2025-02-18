@@ -5,12 +5,8 @@
 #DOMAIN-SUFFIX,io
 #DOMAIN-SUFFIX,xyz
 
-#项目过滤
-DOMAIN-KEYWORD,dawn-internet
-DOMAIN-KEYWORD,getgrass
-DOMAIN-KEYWORD,nodepay
-DOMAIN-KEYWORD,phantom
-DOMAIN-KEYWORD,sayecho
+
+#项目过滤 [域名]
 DOMAIN-SUFFIX,0G.ai
 DOMAIN-SUFFIX,arkm.com
 DOMAIN-SUFFIX,beboundless.xyz
@@ -24,6 +20,15 @@ DOMAIN-SUFFIX,kintsu.xyz
 DOMAIN-SUFFIX,myriad.markets
 DOMAIN-SUFFIX,usecorn.com
 DOMAIN-SUFFIX,walrus.xyz
+
+
+#项目过滤 [关键字]
+DOMAIN-KEYWORD,dawn-internet
+DOMAIN-KEYWORD,getgrass
+DOMAIN-KEYWORD,nodepay
+DOMAIN-KEYWORD,phantom
+DOMAIN-KEYWORD,sayecho
+
 
 #磁力网站
 DOMAIN-KEYWORD,yuhuage
