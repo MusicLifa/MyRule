@@ -4,7 +4,7 @@
 #DOMAIN-SUFFIX,ai
 #DOMAIN-SUFFIX,io
 #DOMAIN-SUFFIX,xyz
-
+DOMAIN-SUFFIX,edu.hk
 
 #项目过滤 [域名]
 DOMAIN-SUFFIX,0G.ai
