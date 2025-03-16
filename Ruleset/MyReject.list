@@ -19,4 +19,9 @@ DOMAIN-SUFFIX,mon.toutiao.com
 DOMAIN-SUFFIX,monsetting.toutiao.com
 DOMAIN-SUFFIX,partner.toutiao.com
 
+# Software update
+DOMAIN-SUFFIX,tonec.com
+DOMAIN-SUFFIX,registeridm.com
+DOMAIN-SUFFIX,internetdownloadmanager.com
+
 
