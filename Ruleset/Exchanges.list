@@ -1,20 +1,14 @@
 #币安
+DOMAIN-KEYWORD,appsflayer
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,binancecnt
+DOMAIN-KEYWORD,binancefuture
+DOMAIN-KEYWORD,bnappzh
+DOMAIN-KEYWORD,bnbstatic
+DOMAIN-KEYWORD,bnbzh
+DOMAIN-KEYWORD,bntrace
 DOMAIN-KEYWORD,Marketwebb
 DOMAIN-KEYWORD,saasexch
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-#DOMAIN-SUFFIX,saasexch.cc
-#DOMAIN-SUFFIX,saasexch.com
-#DOMAIN-SUFFIX,binance.cloud
-#DOMAIN-SUFFIX,binance.com
-#DOMAIN-SUFFIX,binance.me
-
 
 #欧易
 DOMAIN-SUFFIX,okex.com
