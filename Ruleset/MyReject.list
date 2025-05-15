@@ -25,4 +25,7 @@ DOMAIN-SUFFIX,registeridm.com
 DOMAIN-KEYWORD,MSOfficePLUS
 DOMAIN-SUFFIX,internetdownloadmanager.com
 
+#APP Check
+DOMAIN-SUFFIX,appdl-11-drcn.dbankcdn.com
+
 
