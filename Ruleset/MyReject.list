@@ -20,12 +20,10 @@ DOMAIN-SUFFIX,monsetting.toutiao.com
 DOMAIN-SUFFIX,partner.toutiao.com
 
 # Software update
+DOMAIN-KEYWORD,MSOfficePLUS
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,registeridm.com
-DOMAIN-KEYWORD,MSOfficePLUS
 DOMAIN-SUFFIX,internetdownloadmanager.com
 
-#APP Check
-DOMAIN-SUFFIX,appdl-11-drcn.dbankcdn.com
 
 
