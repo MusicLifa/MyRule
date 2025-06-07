@@ -25,5 +25,12 @@ DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
 
-
+# 恶意网址
+DOMAIN-SUFFIX,enermax-com.cc
+DOMAIN-SUFFIX,komaru.today
+DOMAIN-SUFFIX,fdstat.vip
+DOMAIN-SUFFIX,bumbleshrimp.com
+DOMAIN-SUFFIX,nolanwh.cf
+DOMAIN-SUFFIX,sytes.net
+DOMAIN-SUFFIX,duckdns.org
 
