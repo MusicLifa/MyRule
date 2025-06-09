@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,walrus.xyz
 
 #项目过滤 [关键字]
 DOMAIN-KEYWORD,dawn-internet
-DOMAIN-KEYWORD,getgrass
+DOMAIN-KEYWORD,grass
 DOMAIN-KEYWORD,nodepay
 DOMAIN-KEYWORD,phantom
 DOMAIN-KEYWORD,sayecho
