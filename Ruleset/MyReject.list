@@ -20,7 +20,8 @@ DOMAIN-SUFFIX,monsetting.toutiao.com
 DOMAIN-SUFFIX,partner.toutiao.com
 
 # Software update
-DOMAIN-KEYWORD,MSOfficePLUS
+# DOMAIN-KEYWORD,MSOfficePLUS
+DOMAIN-KEYWORD,GlassWireSetup
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
