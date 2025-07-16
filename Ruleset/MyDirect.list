@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,oucuiya.com
 
 
 #其他网站关键字
+#DOMAIN-KEYWORD,zerotier
 DOMAIN-KEYWORD,uup
 DOMAIN-KEYWORD,pcbeta
 DOMAIN-KEYWORD,lenovo
@@ -138,7 +139,6 @@ DOMAIN-KEYWORD,phanton
 DOMAIN-KEYWORD,tailscale
 DOMAIN-KEYWORD,zendesk
 DOMAIN-KEYWORD,qualified
-DOMAIN-KEYWORD,zerotier
 DOMAIN-KEYWORD,zdassets
 DOMAIN-KEYWORD,nelreports
 DOMAIN-KEYWORD,website-files
