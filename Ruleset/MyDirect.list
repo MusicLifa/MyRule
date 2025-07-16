@@ -124,6 +124,7 @@ DOMAIN-KEYWORD,lenovo
 DOMAIN-KEYWORD,todesk
 DOMAIN-KEYWORD,huawei
 DOMAIN-KEYWORD,foxmail
+DOMAIN-KEYWORD,hikvision
 DOMAIN-KEYWORD,kaspersky
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,amazonaws
@@ -142,6 +143,7 @@ DOMAIN-KEYWORD,zdassets
 DOMAIN-KEYWORD,nelreports
 DOMAIN-KEYWORD,website-files
 DOMAIN-KEYWORD,bigdatacloud
+
 
 
 #国内网盘
