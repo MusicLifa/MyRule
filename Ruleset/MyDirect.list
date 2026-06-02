@@ -54,15 +54,24 @@ DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,ixigua
 
 #下载网站
-DOMAIN-SUFFIX,rsload.net
 DOMAIN-SUFFIX,lrepacks.ru
-DOMAIN-SUFFIX,mefcl.com
 DOMAIN-SUFFIX,s0ft4pc.com
 DOMAIN-SUFFIX,lovestu.com
-DOMAIN-SUFFIX,gndown.com
-DOMAIN-KEYWORD,filecr
 DOMAIN-KEYWORD,portable
 DOMAIN-KEYWORD,devuploads
+DOMAIN-SUFFIX,4fb.cn
+DOMAIN-SUFFIX,423down.com
+DOMAIN-SUFFIX,0daydown.com
+DOMAIN-SUFFIX,mefcl.com
+DOMAIN-SUFFIX,filecr.com
+DOMAIN-SUFFIX,flighty.cn
+DOMAIN-SUFFIX,msfree.su
+DOMAIN-SUFFIX,feijipan.com
+DOMAIN-SUFFIX,rsload.net
+DOMAIN-SUFFIX,tzsucai.com
+DOMAIN-SUFFIX,gndown.com
+DOMAIN-SUFFIX,yhxs3344.net
+DOMAIN-SUFFIX,driver114.com
 
 #其他网站网站
 DOMAIN-SUFFIX,asus.com
