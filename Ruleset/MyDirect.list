@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,myriad.markets
 DOMAIN-SUFFIX,nexus.xyz
 DOMAIN-SUFFIX,usecorn.com
 DOMAIN-SUFFIX,walrus.xyz
-DOMAIN-SUFFIX,feijipan.com
 DOMAIN-SUFFIX,mjtd.com
 DOMAIN-SUFFIX,nvidia.com
 #DOMAIN-KEYWORD,chaoslabs
@@ -38,7 +37,6 @@ DOMAIN-KEYWORD,nodepay
 DOMAIN-KEYWORD,phantom
 DOMAIN-KEYWORD,sayecho
 DOMAIN-KEYWORD,rumt-zh
-DOMAIN-KEYWORD,huang1111
 
 
 #磁力网站
@@ -59,9 +57,8 @@ DOMAIN-KEYWORD,ixigua
 DOMAIN-SUFFIX,lrepacks.ru
 DOMAIN-SUFFIX,s0ft4pc.com
 DOMAIN-SUFFIX,lovestu.com
-DOMAIN-KEYWORD,portable
-DOMAIN-KEYWORD,devuploads
 DOMAIN-SUFFIX,4fb.cn
+DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,0daydown.com
 DOMAIN-SUFFIX,mefcl.com
@@ -74,6 +71,9 @@ DOMAIN-SUFFIX,tzsucai.com
 DOMAIN-SUFFIX,gndown.com
 DOMAIN-SUFFIX,yhxs3344.net
 DOMAIN-SUFFIX,driver114.com
+DOMAIN-KEYWORD,portable
+DOMAIN-KEYWORD,devuploads
+
 
 #其他网站网站
 DOMAIN-SUFFIX,asus.com
@@ -101,7 +101,6 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,hku.hk
 DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,orvibo.com
 DOMAIN-SUFFIX,sina.com
@@ -167,6 +166,4 @@ DOMAIN-SUFFIX,n802.com
 DOMAIN-SUFFIX,tv002.com
 DOMAIN-KEYWORD,ctfile
 DOMAIN-KEYWORD,123pan
-
-
-
+DOMAIN-KEYWORD,huang1111
