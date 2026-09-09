@@ -24,9 +24,6 @@ DOMAIN-SUFFIX,myriad.markets
 DOMAIN-SUFFIX,nexus.xyz
 DOMAIN-SUFFIX,usecorn.com
 DOMAIN-SUFFIX,walrus.xyz
-DOMAIN-SUFFIX,mjtd.com
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,wcc.best
 #DOMAIN-KEYWORD,chaoslabs
 
 
@@ -129,6 +126,10 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,wetab.link
 DOMAIN-SUFFIX,hima.auto
 DOMAIN-SUFFIX,oucuiya.com
+DOMAIN-SUFFIX,mjtd.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,wcc.best
+DOMAIN-SUFFIX,mwcname.com
 
 
 #其他网站关键字
