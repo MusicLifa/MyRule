@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,mjtd.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,wcc.best
 DOMAIN-SUFFIX,mwcname.com
+DOMAIN-SUFFIX,aliyuncsslb.com
 
 
 #其他网站关键字
@@ -156,6 +157,8 @@ DOMAIN-KEYWORD,zdassets
 DOMAIN-KEYWORD,nelreports
 DOMAIN-KEYWORD,website-files
 DOMAIN-KEYWORD,bigdatacloud
+DOMAIN-KEYWORD,beijing
+DOMAIN-KEYWORD,shanghai
 
 
 
